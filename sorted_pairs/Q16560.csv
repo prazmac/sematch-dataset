@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+palace_of_versailles	forbidden_city	Palace of Versailles	Forbidden City	http://www.wikidata.org/entity/Q2946	http://www.wikidata.org/entity/Q80290	47.0	35.171	[70, 28, 0, 90]

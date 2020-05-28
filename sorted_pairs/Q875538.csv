@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+technical_university_munich	leipzig_university	Technical University Munich	Leipzig University	http://www.wikidata.org/entity/Q157808	http://www.wikidata.org/entity/Q154804	88.75	10.2804	[72, 100, 92, 91]

@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+united_kingdom	barbados	United Kingdom	Barbados	http://www.wikidata.org/entity/Q145	http://www.wikidata.org/entity/Q244	50.25	25.2228	[8, 54, 68, 71]

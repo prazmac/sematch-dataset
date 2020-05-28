@@ -1,0 +1,6 @@
+SELECT ?type
+WHERE
+{
+  <{iri_1}> wdt:P31 ?type.
+  <{iri_2}> wdt:P31 ?type.
+}

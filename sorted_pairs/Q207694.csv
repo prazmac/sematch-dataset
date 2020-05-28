@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+the_louvre	museo_del_prado	The Louvre	Museo del Prado	http://www.wikidata.org/entity/Q19675	http://www.wikidata.org/entity/Q160112	64.25	39.4739	[0, 100, 64, 93]

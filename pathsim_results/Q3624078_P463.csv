@@ -1,0 +1,23 @@
+Iri1	Iri2	String1	String2	Similarity
+http://www.wikidata.org/entity/Q796	http://www.wikidata.org/entity/Q794	Iraq	Iran	0.9333333333333333
+http://www.wikidata.org/entity/Q965	http://www.wikidata.org/entity/Q974	Burkina Faso	Democratic Republic of the Congo	0.9
+http://www.wikidata.org/entity/Q20	http://www.wikidata.org/entity/Q35	Norway	Denmark	0.8947368421052632
+http://www.wikidata.org/entity/Q794	http://www.wikidata.org/entity/Q889	Iran	Afghanistan	0.8571428571428571
+http://www.wikidata.org/entity/Q774	http://www.wikidata.org/entity/Q786	Guatemala	Dominican Republic	0.8
+http://www.wikidata.org/entity/Q38	http://www.wikidata.org/entity/Q142	Italy	France	0.7843137254901961
+http://www.wikidata.org/entity/Q712	http://www.wikidata.org/entity/Q948	Fiji	Tunisia	0.7777777777777778
+http://www.wikidata.org/entity/Q837	http://www.wikidata.org/entity/Q1049	Nepal	Sudan	0.75
+http://www.wikidata.org/entity/Q212	http://www.wikidata.org/entity/Q37	Ukraine	Lithuania	0.6923076923076923
+http://www.wikidata.org/entity/Q334	http://www.wikidata.org/entity/Q819	Singapore	Laos	0.6153846153846154
+http://www.wikidata.org/entity/Q813	http://www.wikidata.org/entity/Q43	Kyrgyzstan	Turkey	0.56
+http://www.wikidata.org/entity/Q117	http://www.wikidata.org/entity/Q142	Ghana	France	0.5517241379310345
+http://www.wikidata.org/entity/Q408	http://www.wikidata.org/entity/Q32	Australia	Luxembourg	0.55
+http://www.wikidata.org/entity/Q262	http://www.wikidata.org/entity/Q142	Algeria	France	0.5
+http://www.wikidata.org/entity/Q28	http://www.wikidata.org/entity/Q889	Hungary	Afghanistan	0.5
+http://www.wikidata.org/entity/Q242	http://www.wikidata.org/entity/Q45	Belize	Portugal	0.4444444444444444
+http://www.wikidata.org/entity/Q145	http://www.wikidata.org/entity/Q244	United Kingdom	Barbados	0.4117647058823529
+http://www.wikidata.org/entity/Q145	http://www.wikidata.org/entity/Q115	United Kingdom	Ethiopia	0.4
+http://www.wikidata.org/entity/Q423	http://www.wikidata.org/entity/Q928	North Korea	Philippines	0.4
+http://www.wikidata.org/entity/Q12560	http://www.wikidata.org/entity/Q159	Ottoman Empire	Russia	0.0
+http://www.wikidata.org/entity/Q115	http://www.wikidata.org/entity/Q12560	Ethiopia	Ottoman Empire	0.0
+http://www.wikidata.org/entity/Q12560	http://www.wikidata.org/entity/Q43	Ottoman Empire	Turkey	0.0

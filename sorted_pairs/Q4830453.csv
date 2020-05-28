@@ -1,0 +1,7 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+new_york_mercantile_exchange	people's_bank_of_china	New York Mercantile Exchange	People's Bank of China	http://www.wikidata.org/entity/Q120233	http://www.wikidata.org/entity/Q249203	35.5	23.0272	[0, 31, 51, 60]
+mcdonald's	ibm	McDonald's	IBM	http://www.wikidata.org/entity/Q38076	http://www.wikidata.org/entity/Q37156	26.75	17.4266	[18, 32, 5, 52]
+bugatti	boeing	Bugatti	Boeing	http://www.wikidata.org/entity/Q27401	http://www.wikidata.org/entity/Q66	24.2	28.868000000000002	[11, 4, 81, 6, 19]
+boeing	google	Boeing	Google	http://www.wikidata.org/entity/Q66	http://www.wikidata.org/entity/Q95	15.5	26.8468	[0, 0, 0, 62]
+mayo_clinic	mcdonald's	Mayo Clinic	McDonald's	http://www.wikidata.org/entity/Q1130172	http://www.wikidata.org/entity/Q38076	7.5	8.6168	[9, 0, 0, 21]
+pfizer	manchester_united_f.c.	Pfizer	Manchester United F.C.	http://www.wikidata.org/entity/Q206921	http://www.wikidata.org/entity/Q18656	1.75	2.4875	[0, 6, 1, 0]

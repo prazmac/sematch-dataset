@@ -1,0 +1,4 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+mcdonald's	ibm	McDonald's	IBM	http://www.wikidata.org/entity/Q38076	http://www.wikidata.org/entity/Q37156	26.75	17.4266	[18, 32, 5, 52]
+bugatti	boeing	Bugatti	Boeing	http://www.wikidata.org/entity/Q27401	http://www.wikidata.org/entity/Q66	24.2	28.868000000000002	[11, 4, 81, 6, 19]
+boeing	google	Boeing	Google	http://www.wikidata.org/entity/Q66	http://www.wikidata.org/entity/Q95	15.5	26.8468	[0, 0, 0, 62]

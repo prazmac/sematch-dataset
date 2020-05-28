@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+blue_ridge_mountains	catskill_mountains	Blue Ridge Mountains	Catskill Mountains	http://www.wikidata.org/entity/Q166755	http://www.wikidata.org/entity/Q630566	88.8	7.4673	[81, 100, 86, 95, 82]

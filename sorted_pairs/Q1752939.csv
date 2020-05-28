@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+social_security_administration	small_business_administration	Social Security Administration	Small Business Administration	http://www.wikidata.org/entity/Q2824618	http://www.wikidata.org/entity/Q495354	63.0	36.6674	[0, 91, 78, 83]

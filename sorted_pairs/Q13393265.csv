@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+shanghai_sharks	phoenix_suns	Shanghai Sharks	Phoenix Suns	http://www.wikidata.org/entity/Q2502166	http://www.wikidata.org/entity/Q164177	76.4	21.8961	[95, 100, 38, 77, 72]

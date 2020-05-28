@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+ferrari	lamborghini	Ferrari	Lamborghini	http://www.wikidata.org/entity/Q27586	http://www.wikidata.org/entity/Q35886	97.6	2.245	[97, 100, 100, 94, 97]

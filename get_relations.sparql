@@ -1,0 +1,8 @@
+SELECT DISTINCT ?rel ?type
+WHERE
+{
+  <{iri_1}> ?rel ?e1.
+  <{iri_2}> ?rel ?e2.
+  ?e1 wdt:P31 ?type.
+  ?e2 wdt:P31 ?type.
+}

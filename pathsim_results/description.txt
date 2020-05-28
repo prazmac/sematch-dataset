@@ -1,0 +1,11 @@
+Q5_P106.csv
+{Q5 (human)} -[P106 (occupation)]-> {Q28640 (profession)} <-[P106 (occupation)]- {Q5 (human)}
+
+Q5_P1412.csv
+{Q5 (human)} -[P1412 (language)]-> {Q34770 (language)} <-[P1412 (language)]- {Q5 (human)}
+
+Q3624078_P463.csv
+{Q3624078 (sov. state)} -[P463 (member of)]-> {Q484652 (international org.)} <-[P463 (member of)]- {Q3624078 (sov. state)}
+
+Q3624078_P530.csv
+{Q3624078 (sov. state)} -[P530 (diplomatic relation)]-> {Q3624078 (sov. state)} <-[P530 (diplomatic relation)]- {Q3624078 (sov. state)}

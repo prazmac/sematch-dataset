@@ -1,0 +1,5 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+river_kent	river_thames	River Kent	River Thames	http://www.wikidata.org/entity/Q2155507	http://www.wikidata.org/entity/Q19686	93.6	10.3653	[98, 100, 97, 73, 100]
+volga_river	nile	Volga River	Nile	http://www.wikidata.org/entity/Q626	http://www.wikidata.org/entity/Q3392	89.75	12.0908	[94, 98, 69, 98]
+danube	river_thames	Danube	River Thames	http://www.wikidata.org/entity/Q1653	http://www.wikidata.org/entity/Q19686	84.6	10.0717	[88, 98, 90, 78, 69]
+volga_river	dnieper_river	Volga River	Dnieper	http://www.wikidata.org/entity/Q626	http://www.wikidata.org/entity/Q40855	76.0	38.5175	[97, 100, 0, 83, 100]

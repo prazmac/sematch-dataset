@@ -1,0 +1,4 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+guangzhou	lagos	Guangzhou	Lagos	http://www.wikidata.org/entity/Q16572	http://www.wikidata.org/entity/Q8673	49.8	40.7205	[85, 79, 85, 0, 0]
+mumbai	singapore	Mumbai	Singapore	http://www.wikidata.org/entity/Q1156	http://www.wikidata.org/entity/Q334	48.6	38.7174	[58, 0, 7, 84, 94]
+paris	guangzhou	Paris	Guangzhou	http://www.wikidata.org/entity/Q90	http://www.wikidata.org/entity/Q16572	24.5	27.7984	[24, 70, 4, 0]

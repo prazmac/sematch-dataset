@@ -1,0 +1,3 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+matterhorn	mount_everest	Matterhorn	Mount Everest	http://www.wikidata.org/entity/Q1374	http://www.wikidata.org/entity/Q513	79.75	12.1321	[72, 100, 78, 69]
+mount_everest	grand_teton	Mount Everest	Grand Teton	http://www.wikidata.org/entity/Q513	http://www.wikidata.org/entity/Q2078034	41.0	35.1212	[16, 89, 0, 59]

@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+european_space_agency	indian_space_research_organisation	European Space Agency	Indian Space Research Organisation	http://www.wikidata.org/entity/Q42262	http://www.wikidata.org/entity/Q229058	86.5	9.0139	[78, 95, 77, 96]

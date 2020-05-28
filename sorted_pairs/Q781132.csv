@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+german_army	spanish_navy	German Army	Spanish Navy	http://www.wikidata.org/entity/Q11322507	http://www.wikidata.org/entity/Q676404	74.5	34.471	[92, 99, 15, 92]

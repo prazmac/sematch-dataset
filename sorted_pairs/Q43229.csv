@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+united_states_olympic_committee	world_boxing_organization	United States Olympic Committee	World Boxing Organization	http://www.wikidata.org/entity/Q1418438	http://www.wikidata.org/entity/Q830940	46.5	37.7392	[0, 100, 25, 61]

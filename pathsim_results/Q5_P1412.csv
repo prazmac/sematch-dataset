@@ -1,0 +1,105 @@
+Iri1	Iri2	String1	String2	Similarity
+http://www.wikidata.org/entity/Q10648	http://www.wikidata.org/entity/Q9640	Gordon Brown	Lyndon B. Johnson	1.0
+http://www.wikidata.org/entity/Q5928	http://www.wikidata.org/entity/Q150651	Jimi Hendrix	George Carlin	1.0
+http://www.wikidata.org/entity/Q40523	http://www.wikidata.org/entity/Q19848	Julia Roberts	Lady Gaga	1.0
+http://www.wikidata.org/entity/Q1176577	http://www.wikidata.org/entity/Q103949	David Sedaris	Buster Keaton	1.0
+http://www.wikidata.org/entity/Q4616	http://www.wikidata.org/entity/Q35332	Marilyn Monroe	Brad Pitt	1.0
+http://www.wikidata.org/entity/Q303	http://www.wikidata.org/entity/Q2680	Elvis Presley	Bruce Willis	1.0
+http://www.wikidata.org/entity/Q8016	http://www.wikidata.org/entity/Q130742	Winston Churchill	Alanis Morissette	1.0
+http://www.wikidata.org/entity/Q9439	http://www.wikidata.org/entity/Q103876	Queen Victoria	Peter O'Toole	1.0
+http://www.wikidata.org/entity/Q93341	http://www.wikidata.org/entity/Q180374	Miles Davis	Frank Gehry	1.0
+http://www.wikidata.org/entity/Q37001	http://www.wikidata.org/entity/Q8006	Toshiro Mifune	Akira Kurosawa	1.0
+http://www.wikidata.org/entity/Q134262	http://www.wikidata.org/entity/Q104372	Tennessee Williams	Doris Day	1.0
+http://www.wikidata.org/entity/Q19133	http://www.wikidata.org/entity/Q204077	Qianlong Emperor	Cao Cao	1.0
+http://www.wikidata.org/entity/Q49575	http://www.wikidata.org/entity/Q6294	Dizzy Gillespie	Hillary Rodham Clinton	1.0
+http://www.wikidata.org/entity/Q9545	http://www.wikidata.org/entity/Q9696	Tony Blair	John F. Kennedy	1.0
+http://www.wikidata.org/entity/Q5679	http://www.wikidata.org/entity/Q36107	Lord Byron	Muhammad Ali	1.0
+http://www.wikidata.org/entity/Q5284	http://www.wikidata.org/entity/Q34660	Bill Gates	J. K. Rowling	1.0
+http://www.wikidata.org/entity/Q615	http://www.wikidata.org/entity/Q34417	Lionel Messi	Philip II of spain	1.0
+http://www.wikidata.org/entity/Q34660	http://www.wikidata.org/entity/Q127330	J. K. Rowling	Frank Zappa	1.0
+http://www.wikidata.org/entity/Q211987	http://www.wikidata.org/entity/Q310618	Jon Stewart	Glenn Beck	1.0
+http://www.wikidata.org/entity/Q19526	http://www.wikidata.org/entity/Q259507	Maya Angelou	bell hooks	1.0
+http://www.wikidata.org/entity/Q8027	http://www.wikidata.org/entity/Q41921	Martin Luther King, Jr.	Rosa Parks	1.0
+http://www.wikidata.org/entity/Q392	http://www.wikidata.org/entity/Q9545	Bob Dylan	Tony Blair	1.0
+http://www.wikidata.org/entity/Q692	http://www.wikidata.org/entity/Q16867	William Shakespeare	Edgar Allan Poe	1.0
+http://www.wikidata.org/entity/Q38119	http://www.wikidata.org/entity/Q175535	Daniel Radcliffe	Matt Damon	1.0
+http://www.wikidata.org/entity/Q16297	http://www.wikidata.org/entity/Q110154	William Shatner	George Takei	1.0
+http://www.wikidata.org/entity/Q36322	http://www.wikidata.org/entity/Q16867	Jane Austen	Edgar Allan Poe	1.0
+http://www.wikidata.org/entity/Q91	http://www.wikidata.org/entity/Q463557	Abraham Lincoln	Rand Paul	1.0
+http://www.wikidata.org/entity/Q40787	http://www.wikidata.org/entity/Q8007	Nicholas II of Russia	Franklin D. Roosevelt	0.75
+http://www.wikidata.org/entity/Q8016	http://www.wikidata.org/entity/Q9640	Winston Churchill	Lyndon B. Johnson	0.6666666666666666
+http://www.wikidata.org/entity/Q76	http://www.wikidata.org/entity/Q26876	Barack Obama	Taylor Swift	0.6666666666666666
+http://www.wikidata.org/entity/Q203960	http://www.wikidata.org/entity/Q13909	James Earl Jones	Angelina Jolie	0.6666666666666666
+http://www.wikidata.org/entity/Q5928	http://www.wikidata.org/entity/Q13909	Jimi Hendrix	Angelina Jolie	0.6666666666666666
+http://www.wikidata.org/entity/Q9960	http://www.wikidata.org/entity/Q76	Ronald Reagan	Barack Obama	0.6666666666666666
+http://www.wikidata.org/entity/Q259507	http://www.wikidata.org/entity/Q132524	bell hooks	Ayn Rand	0.6666666666666666
+http://www.wikidata.org/entity/Q892	http://www.wikidata.org/entity/Q181900	J.R.R. Tolkien	Stan Lee	0.6666666666666666
+http://www.wikidata.org/entity/Q8027	http://www.wikidata.org/entity/Q937	Martin Luther King, Jr.	Albert Einstein	0.6666666666666666
+http://www.wikidata.org/entity/Q76	http://www.wikidata.org/entity/Q6294	Barack Obama	Hillary Rodham Clinton	0.6666666666666666
+http://www.wikidata.org/entity/Q34660	http://www.wikidata.org/entity/Q937	J. K. Rowling	Albert Einstein	0.6666666666666666
+http://www.wikidata.org/entity/Q76	http://www.wikidata.org/entity/Q10390	Barack Obama	John McCain	0.6666666666666666
+http://www.wikidata.org/entity/Q72653	http://www.wikidata.org/entity/Q23434	Danielle Steel	Ernest Hemingway	0.6666666666666666
+http://www.wikidata.org/entity/Q1124	http://www.wikidata.org/entity/Q10648	Bill Clinton	Gordon Brown	0.6666666666666666
+http://www.wikidata.org/entity/Q9439	http://www.wikidata.org/entity/Q41548	Queen Victoria	Antonio Banderas	0.6666666666666666
+http://www.wikidata.org/entity/Q22316	http://www.wikidata.org/entity/Q48259	John Kerry	Dick Cheney	0.5
+http://www.wikidata.org/entity/Q35332	http://www.wikidata.org/entity/Q38111	Brad Pitt	Leonardo DiCaprio	0.5
+http://www.wikidata.org/entity/Q132524	http://www.wikidata.org/entity/Q855	Ayn Rand	Joseph Stalin	0.5
+http://www.wikidata.org/entity/Q22316	http://www.wikidata.org/entity/Q2643	John Kerry	George Harrison	0.5
+http://www.wikidata.org/entity/Q9640	http://www.wikidata.org/entity/Q22316	Lyndon B. Johnson	John Kerry	0.5
+http://www.wikidata.org/entity/Q8007	http://www.wikidata.org/entity/Q9960	Franklin D. Roosevelt	Ronald Reagan	0.5
+http://www.wikidata.org/entity/Q11820	http://www.wikidata.org/entity/Q9682	Martin van Buren	Elizabeth II	0.5
+http://www.wikidata.org/entity/Q11860	http://www.wikidata.org/entity/Q9960	Silvio Berlusconi	Ronald Reagan	0.5
+http://www.wikidata.org/entity/Q34296	http://www.wikidata.org/entity/Q23685	Woodrow Wilson	Jimmy Carter	0.5
+http://www.wikidata.org/entity/Q30875	http://www.wikidata.org/entity/Q19526	Oscar Wilde	Maya Angelou	0.4
+http://www.wikidata.org/entity/Q33391	http://www.wikidata.org/entity/Q991	Leon Trotsky	Fyodor Dostoyevsky	0.4
+http://www.wikidata.org/entity/Q33391	http://www.wikidata.org/entity/Q44279	Leon Trotsky	Oliver Cromwell	0.4
+http://www.wikidata.org/entity/Q692	http://www.wikidata.org/entity/Q47059	William Shakespeare	Aishwarya Rai	0.3333333333333333
+http://www.wikidata.org/entity/Q40787	http://www.wikidata.org/entity/Q16867	Nicholas II of Russia	Edgar Allan Poe	0.3333333333333333
+http://www.wikidata.org/entity/Q1339	http://www.wikidata.org/entity/Q40787	Johann Sebastian Bach	Nicholas II of Russia	0.3333333333333333
+http://www.wikidata.org/entity/Q204077	http://www.wikidata.org/entity/Q313381	Cao Cao	Tom Brady	0.0
+http://www.wikidata.org/entity/Q79789	http://www.wikidata.org/entity/Q72653	Frederick I, Holy Roman Emperor	Danielle Steel	0.0
+http://www.wikidata.org/entity/Q39212	http://www.wikidata.org/entity/Q1835	John Steinbeck	Zinedine Zidane	0.0
+http://www.wikidata.org/entity/Q186256	http://www.wikidata.org/entity/Q10993	Ferdinand VII of Spain	Tiger Woods	0.0
+http://www.wikidata.org/entity/Q676555	http://www.wikidata.org/entity/Q2632	Francis of Assisi	Ringo Starr	0.0
+http://www.wikidata.org/entity/Q234606	http://www.wikidata.org/entity/Q9441	Martha Stewart	Gautama Buddha	0.0
+http://www.wikidata.org/entity/Q72653	http://www.wikidata.org/entity/Q355388	Danielle Steel	Dale Earnhardt, Jr.	0.0
+http://www.wikidata.org/entity/Q204077	http://www.wikidata.org/entity/Q23844	Cao Cao	George Clooney	0.0
+http://www.wikidata.org/entity/Q312348	http://www.wikidata.org/entity/Q615	Thurgood Marshall	Lionel Messi	0.0
+http://www.wikidata.org/entity/Q76716	http://www.wikidata.org/entity/Q5679	Karl Lagerfeld	Lord Byron	0.0
+http://www.wikidata.org/entity/Q34086	http://www.wikidata.org/entity/Q7235	Justin Bieber	Sophocles	0.0
+http://www.wikidata.org/entity/Q255	http://www.wikidata.org/entity/Q41921	Ludwig van Beethoven	Rosa Parks	0.0
+http://www.wikidata.org/entity/Q350213	http://www.wikidata.org/entity/Q2632	Magnus V of Norway	Ringo Starr	0.0
+http://www.wikidata.org/entity/Q83492	http://www.wikidata.org/entity/Q43347	Gary Oldman	Rumi	0.0
+http://www.wikidata.org/entity/Q7996	http://www.wikidata.org/entity/Q150651	Ivan the Terrible	George Carlin	0.0
+http://www.wikidata.org/entity/Q204077	http://www.wikidata.org/entity/Q9441	Cao Cao	Gautama Buddha	0.0
+http://www.wikidata.org/entity/Q1048	http://www.wikidata.org/entity/Q7235	Julius Caesar	Sophocles	0.0
+http://www.wikidata.org/entity/Q40930	http://www.wikidata.org/entity/Q1253	Nefertiti	Ban Ki-Moon	0.0
+http://www.wikidata.org/entity/Q29545	http://www.wikidata.org/entity/Q80046	Kevin Durant	Charlize Theron	0.0
+http://www.wikidata.org/entity/Q9061	http://www.wikidata.org/entity/Q855	Karl Marx	Joseph Stalin	0.0
+http://www.wikidata.org/entity/Q615	http://www.wikidata.org/entity/Q353511	Lionel Messi	Derek Jeter	0.0
+http://www.wikidata.org/entity/Q483118	http://www.wikidata.org/entity/Q228692	Ben Affleck	Rosario Dawson	0.0
+http://www.wikidata.org/entity/Q1339	http://www.wikidata.org/entity/Q4700	Johann Sebastian Bach	Claude Debussy	0.0
+http://www.wikidata.org/entity/Q296647	http://www.wikidata.org/entity/Q76716	Ralph Lauren	Karl Lagerfeld	0.0
+http://www.wikidata.org/entity/Q131861	http://www.wikidata.org/entity/Q1339	Sergei Rachmaninoff	Johann Sebastian Bach	0.0
+http://www.wikidata.org/entity/Q615	http://www.wikidata.org/entity/Q209518	Lionel Messi	Wayne Gretzky	0.0
+http://www.wikidata.org/entity/Q9535	http://www.wikidata.org/entity/Q100937	Shah Rukh Khan	Fred Astaire	0.0
+http://www.wikidata.org/entity/Q9488	http://www.wikidata.org/entity/Q536900	Sachin Tendulkar	Ken Griffey, Jr.	0.0
+http://www.wikidata.org/entity/Q108560	http://www.wikidata.org/entity/Q295935	A. R. Rahman	John Philip Sousa	0.0
+http://www.wikidata.org/entity/Q91	http://www.wikidata.org/entity/Q517	Abraham Lincoln	Napoleon	0.0
+http://www.wikidata.org/entity/Q635	http://www.wikidata.org/entity/Q1523	Cleopatra	Ramesses II	0.0
+http://www.wikidata.org/entity/Q294912	http://www.wikidata.org/entity/Q83410	Richard Pryor	Cary Grant	0.0
+http://www.wikidata.org/entity/Q100937	http://www.wikidata.org/entity/Q237287	Fred Astaire	Carol Channing	0.0
+http://www.wikidata.org/entity/Q9535	http://www.wikidata.org/entity/Q187058	Shah Rukh Khan	Abhishek Bachchan	0.0
+http://www.wikidata.org/entity/Q991	http://www.wikidata.org/entity/Q272076	Fyodor Dostoyevsky	Dean Koontz	0.0
+http://www.wikidata.org/entity/Q5928	http://www.wikidata.org/entity/Q295935	Jimi Hendrix	John Philip Sousa	0.0
+http://www.wikidata.org/entity/Q5685	http://www.wikidata.org/entity/Q30875	Anton Chekhov	Oscar Wilde	0.0
+http://www.wikidata.org/entity/Q1048	http://www.wikidata.org/entity/Q40930	Julius Caesar	Nefertiti	0.0
+http://www.wikidata.org/entity/Q36450	http://www.wikidata.org/entity/Q171411	Catherine the Great	Oda Nobunaga	0.0
+http://www.wikidata.org/entity/Q19133	http://www.wikidata.org/entity/Q34417	Qianlong Emperor	Philip II of spain	0.0
+http://www.wikidata.org/entity/Q1203	http://www.wikidata.org/entity/Q9535	John Lennon	Shah Rukh Khan	0.0
+http://www.wikidata.org/entity/Q5686	http://www.wikidata.org/entity/Q37615	Charles Dickens	Luciano Pavarotti	0.0
+http://www.wikidata.org/entity/Q19133	http://www.wikidata.org/entity/Q635	Qianlong Emperor	Cleopatra	0.0
+http://www.wikidata.org/entity/Q294912	http://www.wikidata.org/entity/Q6107	Richard Pryor	Tupac Shakur	0.0
+http://www.wikidata.org/entity/Q162492	http://www.wikidata.org/entity/Q23215	Colin Firth	Adele	0.0
+http://www.wikidata.org/entity/Q7294	http://www.wikidata.org/entity/Q1225	Johannes Brahms	Bruce Springsteen	0.0
+http://www.wikidata.org/entity/Q11820	http://www.wikidata.org/entity/Q44313	Martin van Buren	Stone Cold Steve Austin	0.0

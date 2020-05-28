@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+university_of_toronto	university_of_california,_berkeley	University of Toronto	University of California, Berkeley	http://www.wikidata.org/entity/Q180865	http://www.wikidata.org/entity/Q168756	86.25	12.0908	[90, 98, 66, 91]

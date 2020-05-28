@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+algeria	france	Algeria	France	http://www.wikidata.org/entity/Q262	http://www.wikidata.org/entity/Q142	63.0	36.9932	[0, 94, 83, 75]

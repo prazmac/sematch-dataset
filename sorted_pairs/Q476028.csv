@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+real_madrid_c.f.	fc_barcelona	Real Madrid C.F.	FC Barcelona	http://www.wikidata.org/entity/Q8682	http://www.wikidata.org/entity/Q7156	86.5	10.1612	[96, 74, 97, 79]

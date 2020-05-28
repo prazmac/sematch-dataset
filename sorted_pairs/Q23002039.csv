@@ -1,0 +1,2 @@
+Term1	Term2	String1	String2	wikidata_iri_1	wikidata_iri_2	Mean	StdDev	RawScores
+university_of_missouri	university_of_north_carolina_at_greensboro	University of Missouri	University of North Carolina at Greensboro	http://www.wikidata.org/entity/Q579968	http://www.wikidata.org/entity/Q1321380	88.25	5.8041	[83, 82, 93, 95]
